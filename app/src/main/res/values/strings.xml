@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">P2T1meta</string>
+    <string name="titulo">Opereaciones</string>
+    <string name="tresul">Resultado</string>
+    <string name="tnumero1">Valor 1</string>
+    <string name="tnumero2">Valor 2</string>
+    <string name="tbresultado">Resultado</string>
+    <string name="trsuma">Sumar</string>
+    <string name="trResta">Resta</string>
+    <string name="trdivi">Division</string>
+    <string name="trmult">Multiplicacion</string>
+    <string name="tRe">Resultado</string>
+</resources>
